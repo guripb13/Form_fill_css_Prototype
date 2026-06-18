@@ -198,5 +198,5 @@ textarea.fancy-input {top:-40%;
 @keyframes slideLeft {
     0% { transform: translateX(0); }
 
-    100% { transform: translateX(-10vw); }
+    100% { transform: translateX(-15vw); }
 }
